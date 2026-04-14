@@ -12,3 +12,7 @@ A simple To-Do List web application to add, manage, and delete tasks efficiently
 - HTML
 - CSS
 - JavaScript
+
+ Project Preview:
+
+![To Do List](https://github.com/user-attachments/assets/0dac078e-e339-4ab8-aafe-4abcffd2e686)
