@@ -1,0 +1,22 @@
+body{
+background:url(todo_icon.jpg);
+height:100vh;
+background-size:cover;
+overflow: hidden;
+}
+
+
+.completed {
+    text-decoration: red line-through;
+    color: rgb(0, 0, 0);
+}
+
+.list-group-item {
+     display: flex; /* task and cross */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-text {
+    cursor: pointer;
+}
