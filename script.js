@@ -25,7 +25,7 @@ while(true)
         else if(req=="delete")
         {
             let idx=prompt("enter task index to be deleted");
-            todo.splice(idx,1);
+            todo.splice(idx-1,1);
             console.log("task deleted");
         }
         else{
